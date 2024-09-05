@@ -1,13 +1,215 @@
 id,text,title
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
+HU22DM-298287,[IDC23] [ML] [Automation] High Current Occurred During STR Lifecycle Automation ,"*Environment:*
+BCP test rackÂ 
+Build on target: IDC23 mainline-24w28.3-1
+U25 derivative.
+
+*Special IOC:*Â No
+
+*Derivative:*Â U25
+
+*Precondition:*
+1. IDC should be up and in PAD state (Engineering Mode).
+2. STR activated.
+
+*Steps:*
+1. Give Life cycle: Parken-->Wohnen/PAD (for multiple iteration)
+
+*Expected behavior:*
+1. Vehicle should recognize PWF state.
+2. Resume No should be increased up to 0 to 159 after that coldboot occur.
+3. No crash should occur.
+
+*Observed behavior:*
+
+High current occurred: 13mA -17mA
+{code:java}
+490977 2024/07/17 02:20:58.756000 20628.5432 77 IOC SMC Â 4097 log info non-verbose 0 [1] Â LPM 30B:<13573 mV> 30F:<13219 mV> STR:<17 mA> Budget:<5615814 mAh>|4c 50 4d 20 33 30 42 3a 3c 31 33 35 37 33 20 6d 56 3e 20 33 30 46 3a 3c 31 33 32 31 39 20 6d 56 3e 20 53 54 52 3a 3c 31 37 20 6d 41 3e 20 42 75 64 67 65 74 3a 3c 35 36 31 35 38 31 34 20 6d 41 68 3e
+564588 2024/07/17 02:47:33.338000 22221.5430 143 IOC SMC Â 4097 log info non-verbose 0 [1] Â LPM 30B:<13564 mV> 30F:<13210 mV> STR:<16 mA> Budget:<5615794 mAh>|4c 50 4d 20 33 30 42 3a 3c 31 33 35 36 34 20 6d 56 3e 20 33 30 46 3a 3c 31 33 32 31 30 20 6d 56 3e 20 53 54 52 3a 3c 31 36 20 6d 41 3e 20 42 75 64 67 65 74 3a 3c 35 36 31 35 37 39 34 20 6d 41 68 3e
+678224 2024/07/17 03:27:57.066000 1816.4449 126 IOC SMC Â 4097 log info non-verbose 0 [1] Â LPM 30B:<13564 mV> 30F:<13210 mV> STR:<15 mA> Budget:<5615976 mAh>|4c 50 4d 20 33 30 42 3a 3c 31 33 35 36 34 20 6d 56 3e 20 33 30 46 3a 3c 31 33 32 31 30 20 6d 56 3e 20 53 54 52 3a 3c 31 35 20 6d 41 3e 20 42 75 64 67 65 74 3a 3c 35 36 31 35 39 37 36 20 6d 41 68 3e
+700507 2024/07/17 03:34:58.583000 160.9553 242 IOC SMC Â 4097 log info non-verbose 0 [1] Â LPM 30B:<13609 mV> 30F:<13325 mV> STR:<17 mA> Budget:<5615997 mAh>|4c 50 4d 20 33 30 42 3a 3c 31 33 36 30 39 20 6d 56 3e 20 33 30 46 3a 3c 31 33 33 32 35 20 6d 56 3e 20 53 54 52 3a 3c 31 37 20 6d 41 3e 20 42 75 64 67 65 74 3a 3c 35 36 31 35 39 39 37 20 6d 41 68 3e {code}
+*Occurred:* 32/320
+*Attachment:[^17-7-24_porto_idc23_ML24w28.7-2_ioc.dlt.7z]
+[^17-7-24_porto_idc23_ML24w28.7-2_iter2A.dlt.7z][^17-7-24_porto_idc23_ML24w28.7-2_iter2B.dlt.7z]
+*"
+HU22DM-298253,Black CID after bus rest and immediate departure with RFK - Focus: Cold Boot,"platform (e.g. BBG, FAT, TSP, Simulation,...):
+FIT U11 PHEV
+observed behaviour occurs on multiple platforms (yes/no):
+NO
+observed behaviour occurs in multiple lifecycles (yes/no):
+NO
+preconditions and actions (e.g. coding, route-url for navigation errors, weather/environmental circumstances):
+
+Customer park his car. But he has to move his vehicle quickly. He gets in without waiting for the IDC to start up and drives backwards.
+Customer is main user and a linked to the profile digital key ( IPhone and apple watch ) is installed and by the driver.
+
+expected result/behaviour:
+
+No Black CID after leaving RFK ( Early video )
+
+observed result/behaviour:
+
+RFK ist starting up in CID and the early video is displayed when he moves backwards.
+Driver stop and drive forward ( Early video is also displayed ) after some seconds the early video is not longer displayed and the CID goes black.
+After 13 seconds the CID start up, while starting to install the profile the CID goes shortly black again. After this the CID start correctly up and is usable.
+
+possible impact:
+
+Customer upset, can not use the system
+
+actions/steps to recover from error:
+
+Nothing, self healing
+
+test case reference:
+**Head Unit:** MGU_02_A; BMW IDC23;pu2411-24w25.7-2-nodex_IDC23_H_24w25.4-1-3-nodex_IDC23_H_24w25.4-1-3;idc23;HWEL:7D84-005.002.001
+**Ecu:** MGU_02_A; BMW IDC23;pu2411-24w25.7-2-nodex_IDC23_H_24w25.4-1-3-nodex_IDC23_H_24w25.4-1-3;idc23; HWEL:7D84-005.002.001
+*"
+HU22DM-298019,Production Car_Error at B_DATA: WRITE_FA_TO_BACKUP: Problem with the PSdZ vehicle connection or the PSdZ system configuration is incorrect. ECU is not readable. (PSdZ ID: 433),"*platform (e.g. BBG, FAT, TSP, Simulation,...)**:*
+
+U12 production vehicle.
+
+*observed behaviour occurs on multiple platforms (yes/no):*
+
+As of the time the problem was reported, the behaviour of the problem has only been observed on a single platform(vehicle). But it doesn't mean the issue will never be reproduced on other platforms (vehicles). Also, there is a potential possibility that the failure mode of the behaviour of the problem was not effectively triggered on other platforms (vehicles), or that the problem was not noticed by the driver, so it was mistaken that the observed behaviour only occurs on a single platform (vehicle).
+
+*observed behaviour occurs in multiple lifecycles (yes/no):*
+
+As of the time the problem was reported, the behaviour of the problem has only been observed on a single lifecycle. But it doesn't mean the issue will never be reproduced on other lifecycles. Also, there is a potential possibility that the failure mode of the behaviour of the problem was not effectively triggered on other lifecycles, or that the problem was not noticed by the driver, so it was mistaken that the observed behaviour only occurs on a single lifecycle.
+
+*preconditions and actions (e.g. coding, route-url for navigation errors, weather/environmental circumstances)**:*
+
+At about 2024-07-01T22:33:29, at B_DATA, the CASCADE reported errors:
+
+_____________________________________________________________________________
+
+PSDZ.VCM_WRITE
+
+SGBD    : VCM_BACKUP, Addr.: 0x63    Job    :
+
+Erg    : STATUS    Ist    : NOT OKAY
+
+Fehlertext    : WRITE_FA_TO_BACKUP: Problem with the PSdZ vehicle connection or the PSdZ system configuration is incorrect. ECU is not readable. Error cause: job failed with job failed with negative response error: code: service returned global negative response description: Service WDBI_FA1_SP21 returned a negative response with response code requestOutOfRange; LinkName: VCM_BACKUP_HU_MGU2_ETHERNET severity: ERROR , (PSdZ ID: 433)
+
+_____________________________________________________________________________
+
+At about 2024-07-01T23:06:35, execute B_DATA again, but still not success.
+
+The vehicle was sent to F1 rework station.
+
+At about 2024-07-02T00:00:08, execute B_DATA at F1 rework CASCADE station, this time the B_DATA job finished without error.
+
+The file name of the internal traces are at time zone GMT0, but local time zone is GMT+8.
+
+*expected result/behaviour**:*
+
+B_DATA executed successfully.
+
+*observed result/behaviour**:*
+
+Error at B_DATA: WRITE_FA_TO_BACKUP: Problem with the PSdZ vehicle connection or the PSdZ system configuration is incorrect. ECU is not readable. (PSdZ ID: 433)
+
+*possible impact**:*
+Customer complaints; Buildability Obstruction; Re-work.
+
+*actions/steps to recover from error**:*
+
+At about 2024-07-02T00:00:08, execute B_DATA at F1 rework CASCADE station, this time the B_DATA job finished without error.
+
+*test case reference**:*
+
+Timestamp: 2024-07-01T22:33:29
+
+Email: [Ce.Sun@bmw-brilliance.cn|mailto:Ce.Sun@bmw-brilliance.cn]
+
+=== end of error description ===
+"
+HU22DM-297185,0xA7631B - System Health: Resetfehler IOController,"platform (e.g. BBG, FAT, TSP, Simulation,...):
+
+WBY61EF06S5037540, U011, U006-24-07-525, BEV
+
+preconditions and actions (e.g. coding, route-url for navigation errors, weather/environmental circumstances):
+ plant diagnosis
+
+expected result/behaviour:
+
+no dtc
+
+
+
+observed result/behaviour:
+
+
+
+----------------------------------------------------------------------------------------------
+
+SteuergerÃ¤t        :           63  HEADUNIT - MGU_02_A - HEAD UNIT - MEDIA GRAPHICS UNIT HU-MGU_02_A
+
+Job Status         :               OKAY
+
+Fehlerort          :     10969883  0xA7631B - System Health: Resetfehler IOController
+
+Readyness Flag     :           16  Testbedingungen erfÃ¼llt
+
+Fehler vorhanden   :           77  Fehler gespeichert
+
+Warnung Flag       :          128  Fehler wÃ¼rde kein Aufleuchten einer Warnlampe verursachen
+
+F Ãœberlauf         :            0
+
+Fehlerklasse       :         1024  ECU-Softwarefehler
+
+HÃ¤ufigkeitszÃ¤hler  :            1
+
+HeilungszÃ¤hler     :           27
+
+Statusbyte         :          06D
+
+1. Datensatz
+
+Umwelt Anzahl      :            0
+
+Umwelt Kilometer   :            1
+
+Umwelt Meter       :        1.096
+
+Umwelt Km insync   :            1
+
+Umweltbedingung BN :           -1
+
+Umweltbedingung TN :           -1
+
+Umwelt Zeit        :        20734  05.07.2024 10:53:23
+
+Umwelt Zeit ms     :          410
+
+Umwelt Zeit Supreme:    20734.410  05.07.2024 10:53:23,018
+
+Umwelt Zeit Insync :            1
+
+Zeit Sync Methode  :            0
+
+Sync Methode Info  :               RelativeTime
+
+Zeit User Info     :               insync, ms ECU overall, not comparable
+
+possible impact:
+
+customer irritated.
+
+
+
+actions/steps to recover from error:
+
+new LC
+
+
+
+test case reference:
+
+
+=== end of error description ===
+"
 HU22DM-296893,Significantly delayed startup of the CID. Approx. 10 seconds after in the 1st and 3rd Lifecycle,"*platform (e.g. BBG, FAT, TSP, Simulation,...):*
 * Vehicle should be flashed with H_24w28.4-1
 * Vehicle should have active online/backend connection
