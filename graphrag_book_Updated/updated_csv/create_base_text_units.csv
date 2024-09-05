@@ -1,0 +1,247 @@
+id,chunk,chunk_id,document_ids,n_tokens
+4f26e5bc6bd5e9442a1a4d314a03df37,0xA7631B - System Health: Resetfehler IOController ,4f26e5bc6bd5e9442a1a4d314a03df37,[' HFK: 4'],16
+78694c2f02a78b42f413d98bcc76e527,Constant LIFE_CYCLE_MGM_ERROR when executing RS from sleep -- No GBIT ETH Link from MGU22 to WAVE,78694c2f02a78b42f413d98bcc76e527,['HU22DM-156485'],24
+45a47bb0690d91ed05f85dad1776bc56,"[PaDi-SI] PaDi did not wake up after LC, DLT logs also stopped running ",45a47bb0690d91ed05f85dad1776bc56,['HU22DM-156514'],22
+f329c668191e3367609b7bc41cdc48a0,No IOC Alive counter >> no MGU switch >> WAVE not powered >> eCall CCM,f329c668191e3367609b7bc41cdc48a0,['HU22DM-157507'],19
+80fd6c58091eb31c0a8e40a0b27473bd,"Black screen permanently in second 15 lifecycles of the weekend test drive, no recovery",80fd6c58091eb31c0a8e40a0b27473bd,['HU22DM-157544'],18
+413508076503ffc1791365f31de7f406,Black Screen Kombi after a fast Life Cycle,413508076503ffc1791365f31de7f406,['HU22DM-157617'],10
+9c0f0dd4c99b02f2563aa2d10aec7236,IDC23 SV_US - HU crash Eth.service crash,9c0f0dd4c99b02f2563aa2d10aec7236,['HU22DM-157693'],12
+5ad45bd483d79609ef98d1ea70c8cd36,I20: Multiple Coldboots with ResumeNo 0 and 1,5ad45bd483d79609ef98d1ea70c8cd36,['HU22DM-157786'],15
+8f85b6a89a7635df0651bc4afa8bea30, [IDC23] IOC_WATCHDOG_RESET,8f85b6a89a7635df0651bc4afa8bea30,['HU22DM-157954'],9
+6ae37b9ba3a17fa65c721371ae3e5646,"FIT-Fahrzeug / VIT-Vehicle D0103Y - Botschaft(Relativzeit BN2020, ID: RELATIVZEIT) fehlt",6ae37b9ba3a17fa65c721371ae3e5646,['HU22DM-158249'],36
+28607f3235a38d9f1e6ce31678cbec08,[IDC23] IOC_WATCHDOG_RESET,28607f3235a38d9f1e6ce31678cbec08,['HU22DM-158509'],8
+60b8030983178d724777dd61b51279a3,IDC U25 IC does not show content after LC BUS sleep,60b8030983178d724777dd61b51279a3,['HU22DM-158819'],13
+2790bae7f2c75a57fb2b3355a842e5a4,"ZBE up and down signals work, but the rest of the features don't work.",2790bae7f2c75a57fb2b3355a842e5a4,['HU22DM-159142'],18
+2045a423d7ec0e6b18300c4009b51f97,[LifeCycle-RTC] [IDC23] DFE stays black after LC while route guidance active.,2045a423d7ec0e6b18300c4009b51f97,['HU22DM-159183'],22
+5b2875e1c818a3da9b0b3be551d1b092,[IDC23]  IOC_WATCHDOG_RESET,5b2875e1c818a3da9b0b3be551d1b092,['HU22DM-159525'],9
+13bd16bd84d1d944ba4eda1cd1f97d81,"FIT-Fahrzeug / VIT-Vehicle D01030 - Message (Status Anzeige Kombi, ID: ST_DISP_KI) Missing",13bd16bd84d1d944ba4eda1cd1f97d81,['HU22DM-160679'],31
+6eaf196fc6a057eed197922d34d1c0a6,IDC incl. HUD do not start up or need very long for a few minutes,6eaf196fc6a057eed197922d34d1c0a6,['HU22DM-160719'],17
+c60c40f586dba63ab8a5d1f8ab3a11d4,[IDC23] IOC_WATCHDOG_RESET,c60c40f586dba63ab8a5d1f8ab3a11d4,['HU22DM-160935'],8
+698a828fdf5d36721a02e17b833bd96f,"MGU wakes up, quiescent current too high",698a828fdf5d36721a02e17b833bd96f,['HU22DM-161393'],11
+f12bd8809b9a4fbde18d50ae1f1388fb,[IDC23][Stability Auto]: While stability automation observed Crash ID: 2522215684262056414 and Process Name: eth-ctrl.service,f12bd8809b9a4fbde18d50ae1f1388fb,['HU22DM-161436'],31
+5724a82dd708aaee5d26b64b7d5b0b50, IDC23  :  signalgateway.service  RestartPlatform  ,5724a82dd708aaee5d26b64b7d5b0b50,['HU22DM-162083'],12
+211397562072e865dcde9c2fafb534b5,[MGU22] RestartPlatform :signalgateway.service,211397562072e865dcde9c2fafb534b5,['HU22DM-162591'],12
+4aa2f720394e12efb67e7221a8c3e845, [MGU -E][ 23-11]STR exit on timeout ends up in alarm update loop,4aa2f720394e12efb67e7221a8c3e845,['HU22DM-162701'],21
+6e92c9d95d4da810634624fe16b99344,CLONE - Kernel crashes are masked as cold boots,6e92c9d95d4da810634624fe16b99344,['HU22DM-162709'],10
+1a03dc612a3f20b5016da81e642dffc1,[BI_D2ML] [RR25] CID black screen after starting a new LC (reset),1a03dc612a3f20b5016da81e642dffc1,['HU22DM-163250'],21
+2225399269f5b8d8b66b99cf4000276e,IDC23_U12_DFE black screen after startup the vehicle,2225399269f5b8d8b66b99cf4000276e,['HU22DM-163357'],13
+264f25220ba4af0a533536c5f131719d,IOC_WATCHDOG_RESET,264f25220ba4af0a533536c5f131719d,['HU22DM-163829'],4
+106e9295bcfedcccf6687dc20ed91e0c,IOC_WATCHDOG_RESET,106e9295bcfedcccf6687dc20ed91e0c,['HU22DM-163875'],4
+32dd9f1e052bb8720a07b05aa6fb5e27,[0724-381][G28 LCI][MGU22][Inline]_MGU_02_L: NO RESPONSE FROM CONTROLUNIT.,32dd9f1e052bb8720a07b05aa6fb5e27,['HU22DM-163910'],30
+61e528d9a380f24404cd2de394311bd5,CLONE - FIT_CN_U12BEVã€Performanceã€‘:MMI ready time exceed target value,61e528d9a380f24404cd2de394311bd5,['HU22DM-163942'],25
+bd6d9a5cf87b1af138c29eb3af9c5414,[IDC23_D] Nightly Build BAT Failure: mgu22-test-execution-environment.post_serial_marker_tests.check that no stack trace is dumped during ioc execution,bd6d9a5cf87b1af138c29eb3af9c5414,['HU22DM-163954'],34
+c06fc6dd3a2a71fb3c9ffae93ae426f6,BI_2307toML [HU][IDC][pu2307] STR exit on timeout ends up in alarm update loop,c06fc6dd3a2a71fb3c9ffae93ae426f6,['HU22DM-164897'],26
+6bd2fe643bdcc6be72047366d70c9d36,"FIT-Fahrzeug / VIT-Vehicle D0103Y - Botschaft (Field displayArrows, 0x3509) nicht aktuell, EmpfÃ¤nger KOMBI, Sender BCP21_GW",6bd2fe643bdcc6be72047366d70c9d36,['HU22DM-165137'],48
+ffecca81d2d2f0fb0b1752286ad2c891,IOC_WATCHDOG_RESET,ffecca81d2d2f0fb0b1752286ad2c891,['HU22DM-165520'],4
+5650c6b06970630280e141dce7057923,IDC_IC side display is black,5650c6b06970630280e141dce7057923,['HU22DM-166463'],7
+dcbbc08412a95a4863db9dfed9ae7a41,Kombi did not turn on until manual reset,dcbbc08412a95a4863db9dfed9ae7a41,['HU22DM-166595'],10
+20db9c0dd62cade55b075611582ceb52,Target not waking up from UV conditions,20db9c0dd62cade55b075611582ceb52,['HU22DM-166601'],7
+a54f32c60cd4cca34c0a066fab49ca87,[IDC23_E][2311]:WAKEUP_REASON_IOC_WATCHDOG_RESET for U006_7J70681 ,a54f32c60cd4cca34c0a066fab49ca87,['HU22DM-168584'],25
+bb863e7d23568e97bb4f20c0f09d87f2,IOC_WATCHDOG_RESET,bb863e7d23568e97bb4f20c0f09d87f2,['HU22DM-168855'],4
+6963ec899be88537c2941c7683d0cfcb,[BI][HU][IDC][pu2311] STR exit on timeout ends up in alarm update loop,6963ec899be88537c2941c7683d0cfcb,['HU22DM-170923'],22
+fc18a717f9840b1f7cff7e8a3dacbc29,FIT-Fahrzeug / VIT-Vehicle D0130Z - System Health: Resetfehler / kritische Recovery Funktion gestartet / Wiederherstellung fehlgeschlagen,fc18a717f9840b1f7cff7e8a3dacbc29,['HU22DM-171109'],39
+df57c066c0f5bdf4c4b3d066b3a92cf4,[IDC23_E][2311]:IOC_WATCHDOG_RESET with reason SHUTDOWN_IOC_WDGM_RESET in Fahren for U010_5V70383,df57c066c0f5bdf4c4b3d066b3a92cf4,['HU22DM-171267'],32
+1dffee3b908bcf0751d4b6877aca42ea,BI_D2ML MGU22 Temperature Sensors incorrect displayed values in DLT,1dffee3b908bcf0751d4b6877aca42ea,['HU22DM-171347'],15
+9586c06886abf1586a1758c00adddcb3,EA-FIT - I20 â€“ MGU Aufstart fehlerhaft // MGU start-up faulty,9586c06886abf1586a1758c00adddcb3,['HU22DM-171463'],22
+8db2870a9f69b41ad09dc55673603b2a,KNX_G68BEV:CID black screen,8db2870a9f69b41ad09dc55673603b2a,['HU22DM-171536'],10
+e63e71033e5973e3521ddff778ca35d3,BI_2311toML No content is visible on HUD,e63e71033e5973e3521ddff778ca35d3,['HU22DM-171866'],12
+dee02c29ee12ac56a5d7bfe57c8d5abc,IDC : IOC_WATCHDOG_RESET,dee02c29ee12ac56a5d7bfe57c8d5abc,['HU22DM-172298'],7
+4102370503cd9bf6c2f6d53fc36975c2,[IDC23_E][2311]:WAKEUP_REASON_IOC_WATCHDOG_RESET in Fahren for 7L54719,4102370503cd9bf6c2f6d53fc36975c2,['HU22DM-172636'],25
+06339417dd129043f8102316e372f97b,[IDC23][STR] HUD_RESET_3.3V Incorrect in STR State,06339417dd129043f8102316e372f97b,['HU22DM-173007'],17
+2701318aa6b7a9afac87cdf7f06be4fa,[IDC23][STR] APIX Chip Selects Incorrect in STR State,2701318aa6b7a9afac87cdf7f06be4fa,['HU22DM-173226'],15
+046b9075b99ef77e1f8fa7d1156334bc,[IDC23][STR] APIX MB0 Incorrect Configuration,046b9075b99ef77e1f8fa7d1156334bc,['HU22DM-173227'],12
+0aa243942da652d5a1747247f52dea02,BAT Failure_MGU22: oops crash handler error seen on IOC dlt,0aa243942da652d5a1747247f52dea02,['HU22DM-173300'],16
+ddc5db0d99054990fc7e3df37f711e27,Unexpected wakeup reason -graceful power off  observed when the system resumes from STR ,ddc5db0d99054990fc7e3df37f711e27,['HU22DM-173736'],18
+e5d2a321469250dee3b1b85e9b569a2b,[MGU22][ZST][IuK_CAN][TC 2.1] # Transition to NoCommunication on valid wake-up line pulse length,e5d2a321469250dee3b1b85e9b569a2b,['HU22DM-173738'],31
+bb3cb72da8330639bfff06929672c3e3,MGU_02_A - 0xA7631B - System Health: Resetfehler IOController,bb3cb72da8330639bfff06929672c3e3,['HU22DM-174735'],22
+23688e9dc337373f3b1a22dde4d91f6c,FIT-Fahrzeug / VIT-Vehicle D0103Y - System Health: Resetfehler | no crashID,23688e9dc337373f3b1a22dde4d91f6c,['HU22DM-175044'],25
+76c05aa95fb4be4ccf65725072d479ba,IDC_Kombi Display is not provided while driving,76c05aa95fb4be4ccf65725072d479ba,['HU22DM-175356'],11
+43589fe9a00b5cd521a6f3d5ea3e87ac,U12ICE_IDC_Black screen when vehicle startup,43589fe9a00b5cd521a6f3d5ea3e87ac,['HU22DM-175811'],11
+be4e3c313a76922c52076bc989ed8134,Target setup failures due to WDG ERROR on IOC - Mainline,be4e3c313a76922c52076bc989ed8134,['HU22DM-176600'],13
+fa10d28ca3b57c6b180e20d88954027a,IDC :   IOC_WATCHDOG_RESET,fa10d28ca3b57c6b180e20d88954027a,['HU22DM-177615'],8
+57f109cc789d99591333a9eab93f716c,[IDC23 SI]: STR Test are failed due to missing logs during STR test,57f109cc789d99591333a9eab93f716c,['HU22DM-178004'],16
+bc5e7d72174f350a33dcf12faefa7aa6,IDC : IOC_WATCHDOG_RESET,bc5e7d72174f350a33dcf12faefa7aa6,['HU22DM-178506'],7
+04d47b645a730d691ba9cc245f58bc13,Black CID after Test E-09 Reset behavior 9.8V (Severity 2),04d47b645a730d691ba9cc245f58bc13,['HU22DM-178545'],19
+1681ce4c90277fedf623f927c8f40b87,"[IDC][2411][MPP]Sleep car, MPP account auto log out",1681ce4c90277fedf623f927c8f40b87,['HU22DM-178726'],18
+78f9c43b344baaa4cf7b5923d2a89fcb,BI -E2-ML [IDC23_E][2311]:IOC_WATCHDOG_RESET with reason SHUTDOWN_IOC_WDGM_RESET in Fahren for U010_5V70383,78f9c43b344baaa4cf7b5923d2a89fcb,['HU22DM-179187'],39
+6a98c69e1e7753cd8ab2aff1e4565646,[BI-E2-ML] MGU_02_L - 0xA7631B - System Health: Resetfehler IOController,6a98c69e1e7753cd8ab2aff1e4565646,['HU22DM-179760'],29
+798857dabf3f6e02fd96d3754961b4f9,[BI-E2-ML] IDC23_U12_DFE black screen after startup the vehicle,798857dabf3f6e02fd96d3754961b4f9,['HU22DM-179767'],19
+4b03f045ca7c1bdd67310c061680f0c5,[BI-E2-ML] [IDC23][STR] APIX MB0 Incorrect Configuration,4b03f045ca7c1bdd67310c061680f0c5,['HU22DM-179769'],20
+d5559092bd99fd1f3869f1524b901358, IDC : IOC_WATCHDOG_RESET,d5559092bd99fd1f3869f1524b901358,['HU22DM-181126'],6
+acaf15728080d84305015a26ec9ce5a7,[IDC23_E][2311]: IOC_WATCHDOG_RESET in Wohnen for J001_TA10023,acaf15728080d84305015a26ec9ce5a7,['HU22DM-182925'],21
+8758fe93d5c253a88c97ac51e89237d2,[PU23-07] Unexpected HARD_Error_Reset is triggered.,8758fe93d5c253a88c97ac51e89237d2,['HU22DM-183258'],13
+54d5a59714c280fbe4b5932246ec8ed5, [PU23-11] Unexpected HARD_Error_Reset is triggered.,54d5a59714c280fbe4b5932246ec8ed5,['HU22DM-183594'],13
+a4260298f4959dba8b6c03551ae0f618,"RSU-VIP-G070-23-07-533-Fatal Error- FuSi check: Negative result after recovery attempt, no vehicle clearance",a4260298f4959dba8b6c03551ae0f618,['HU22DM-184534'],29
+9790ebc82f7160ddd73beb7d7f7fbe30,BI_2307toML [PU23-07] Unexpected HARD_Error_Reset is triggered.,9790ebc82f7160ddd73beb7d7f7fbe30,['HU22DM-185105'],19
+19481b31bad12e8d64f13ffe10364cda,"[IDC23 SI]: SYSMAN - Lifecycle test scenarios - STR Test - WUP Management - Ending STR on Fahren through NM3, no WUP test failed",19481b31bad12e8d64f13ffe10364cda,['HU22DM-186240'],33
+f8ac24c10a7bc8dc5cc62f5cc543a497,FIT-Fahrzeug / VIT-Vehicle D0103Z - IDC Blackscreen - KM-Stand in IDC genullt - Notrufsystem ausgefallen,f8ac24c10a7bc8dc5cc62f5cc543a497,['HU22DM-186596'],34
+2839fbc9d019e6693439329e5fdfb5a2,[MGU22_E][ZST][Iuk_CAN][TC 2.3]# No transition to NoCommunication on too short wake-up line pulse length,2839fbc9d019e6693439329e5fdfb5a2,['HU22DM-186965'],33
+c529191df0e8772450857333daea1000,0xA7631B - System Health: Resetfehler IOController ,c529191df0e8772450857333daea1000,['HU22DM-187154'],16
+4f2192a3cefeb2e045757f4c98cb538e,BI_2311toML  [PU23-11] Unexpected HARD_Error_Reset is triggered.,4f2192a3cefeb2e045757f4c98cb538e,['HU22DM-187828'],20
+d58af2774383a48d5ddffee5074893a6,[Lifecycle][IDC23][STR] Unexpected Coldboot due to WAKEUP_REASON_IOC_WATCHDOG_RESET,d58af2774383a48d5ddffee5074893a6,['HU22DM-188045'],22
+018ee9a00bbc1f766288a1d00e47abd2,[PaDi SI] Found unexpected DTC: 0xA7981B System Health: Resetfehler IOController,018ee9a00bbc1f766288a1d00e47abd2,['HU22DM-188805'],25
+6d366f29543ceb4666afebe8b2a7fb2f,BI_2311toML IDC23_U12_DFE black screen and HUD no display after short time lock the vehicle ,6d366f29543ceb4666afebe8b2a7fb2f,['HU22DM-189070'],25
+d8eac196b457340a25d203ef89cf60a0,"IDC23_U12_0xCDA469 - Message (Kilometerstand/Reichweite, ID: KILOMETERSTAND) Missing",d8eac196b457340a25d203ef89cf60a0,['HU22DM-189571'],34
+cab271ab0f3742e4c18dd6a66b5e86fd,[IDC23_ML BAT Failure]: mgu22-test-execution-environment.check that no brownout reset occurred on ioc - Watchdog_reset and unexpected BOD_VDDD_RESET seen in traces,cab271ab0f3742e4c18dd6a66b5e86fd,['HU22DM-189812'],40
+23f381240de778e2bc3a13d23bca3565,[IDC][ZST][Iuk_CAN][TC 4.2]# Transition to ECUPassive on non matching NM. Wrong partial network,23f381240de778e2bc3a13d23bca3565,['HU22DM-190449'],31
+6e74dc5d592cc6479ac5f124d556a850,HUD not correct adjustet after profilechange,6e74dc5d592cc6479ac5f124d556a850,['HU22DM-190535'],8
+4d2ebd8c6586f7d4baac358d36590a84,MGU22 HU CID Blackscreen after short stop,4d2ebd8c6586f7d4baac358d36590a84,['HU22DM-190651'],11
+6fb7c08d846b530008af10dd8b7c8d42,"IDC eBVT failure-shutdownResetInfo: VALID_SWITCH_TO_POWER, bootType: WARM BOOT string missing",6fb7c08d846b530008af10dd8b7c8d42,['HU22DM-190949'],24
+605fe89d0c31975979dfde8bc5177ac6,[IDC23][Mainline]: IOC_WATCHDOG_RESET in Wohnen for G045_H021540,605fe89d0c31975979dfde8bc5177ac6,['HU22DM-191119'],20
+715db73f84b8a5a9940736074cb66002,G45 - 0xA7631B - System Health: Resetfehler IOController,715db73f84b8a5a9940736074cb66002,['HU22DM-191659'],19
+f06a861562496748755a429bc4a6f926,RuhestromerhÃ¶hung aufgrund Aufweckens von IDC/Quiescent power increase due to IDC wake-up,f06a861562496748755a429bc4a6f926,['HU22DM-191706'],27
+4ba35bfc7d338199a00d6fa86d10d864,MGU_02_A_PU1123_ - 0xA76300/0xA76301 - System Health: error reset / mgu22:eth-ctrl.service,4ba35bfc7d338199a00d6fa86d10d864,['HU22DM-194406'],36
+0ab08c26efb0fb1e1fab5824767e0c19, [IDC23_E][2311] LCM_SHUTDOWN_UNINTENDED_START_WO_REASON Found in Logs,0ab08c26efb0fb1e1fab5824767e0c19,['HU22DM-194540'],23
+eed974d4fafa09248a93bc9a1552655a,[IDC23_ML][2407]: LCM_SHUTDOWN_UNINTENDED_START_WO_REASON Found in Logs,eed974d4fafa09248a93bc9a1552655a,['HU22DM-194541'],23
+7b35c76e997c4827b6c4f2abae08331e,[IDC23_E] Nightly Build BAT: Node0 flashing failure,7b35c76e997c4827b6c4f2abae08331e,['HU22DM-194555'],14
+e807738758c408be3e8864db88caff39,[IDC23_F] Nightly Build BAT: Node0 flashing failure,e807738758c408be3e8864db88caff39,['HU22DM-194573'],14
+1c2d8c652837fae12d7e1016a093614f,CLONE - [MGU22] Wakeup_reason_watchdog_reset occurred in _9R21379 - Focus: Wakeup Reason 30B even though already running,1c2d8c652837fae12d7e1016a093614f,['HU22DM-194621'],34
+686022cda25cae37331de3a24eaa29d3,[IDC23_F] Nightly Build BAT Failure : system-functions.system_functions_post_tests.Log level of LSMF DLT messages,686022cda25cae37331de3a24eaa29d3,['HU22DM-194921'],25
+fc61993d2f4b84e88da7c0479a7c8b09,[2403 ]Delayed startup of CID,fc61993d2f4b84e88da7c0479a7c8b09,['HU22DM-195094'],8
+d0a7ea4cae6a04e4034abf6e52d259c1,[2403] [RR25] CID black screen after starting a new LC (reset),d0a7ea4cae6a04e4034abf6e52d259c1,['HU22DM-195095'],19
+55946cdb9635ae3014dc49b213ebd624,[2403] [MGU22] IOC_WATCHDOG_RESET:3909173:2023-04-23 18:48:59,55946cdb9635ae3014dc49b213ebd624,['HU22DM-195100'],30
+8f2942bb61954debf95523409380171b,Watchdog reset on health run,8f2942bb61954debf95523409380171b,['HU22DM-195109'],6
+3b5e93df489c871dbffe7402a098ed3d,[2403] MGU Black screen for entire LC,3b5e93df489c871dbffe7402a098ed3d,['HU22DM-195123'],11
+b1418ffef573dabf60fa012d304ac1a3,[MGU]24-03 Fixes for race condition between BOD_VDD Recovery and Shutdown Undervoltage,b1418ffef573dabf60fa012d304ac1a3,['HU22DM-195558'],22
+ab0db4a2bcca339c26d0d4c5ef065293,[IOC2403] CID black screen after starting a new LC (reset),ab0db4a2bcca339c26d0d4c5ef065293,['HU22DM-195621'],16
+4cb16c8995629cafeed255165bc44360,[2403] Unexpected wakeup reason -graceful power off  observed when the system resumes from STR ,4cb16c8995629cafeed255165bc44360,['HU22DM-195629'],22
+41a88e683c2c4336782cbca122a2f940, [IDC23_F][2403]: LCM_SHUTDOWN_UNINTENDED_START_WO_REASON Found in Logs,41a88e683c2c4336782cbca122a2f940,['HU22DM-196160'],23
+03a78e6d89d1dfd1f291689da2203e0d,[2403] [MGU22] Voltage test - Plant issue,03a78e6d89d1dfd1f291689da2203e0d,['HU22DM-196172'],14
+4f7f7ed2398e013f9d0bf49837d024d4,IDC23_U12_2407_CID black screen first then AZV black reset,4f7f7ed2398e013f9d0bf49837d024d4,['HU22DM-196486'],17
+3367d1af79b215e1e3bbeda05ec12266, [IDC23]24-03  Nightly Build BAT: Node0 flashing failure,3367d1af79b215e1e3bbeda05ec12266,['HU22DM-196725'],18
+b0df6b99da3afe11ce76836b5e9fb453,HU-MGU_02_L#Flash#Cascade#ECU sends â€œgeneralRejectâ€ on RC_ERASE_SW_PACKAGE_WTOAC#SWFL,b0df6b99da3afe11ce76836b5e9fb453,['HU22DM-196752'],35
+105b57c88dc624c85578b6500db3200e,[IDC23_E][2311]: IOC_WATCHDOG_RESET in Wohnen for J001_TA10134,105b57c88dc624c85578b6500db3200e,['HU22DM-197779'],21
+d4d16109ee09bb9a72b3728a9f1c6ac3,[IDC23_E][2311]: LCM_SHUTDOWN_UNINTENDED_START_WO_REASON Found in Logs,d4d16109ee09bb9a72b3728a9f1c6ac3,['HU22DM-198918'],22
+21406b0be218246fde2ec92aed83430e,HU-MGU-02_L#Flash#ESYS#ECU does an unexpected reset/Timeout on RC_READ_HTTP_UPDATE_STATUS_SP21#SWFL,21406b0be218246fde2ec92aed83430e,['HU22DM-199194'],31
+02b8248f10030d085d6e0e72fc9f5ffc,"IDC23_U12_2307_Production Car_DTC 0xA76300/0xA76301 for crash ""mgu22:eth-ctrl.service""",02b8248f10030d085d6e0e72fc9f5ffc,['HU22DM-199394'],35
+c51fbbba65ab5cfc2a7399114b4afc72,[MGU22_F][ZST][Iuk_CAN][TC 2.3]# No transition to NoCommunication on too short wake-up line pulse length,c51fbbba65ab5cfc2a7399114b4afc72,['HU22DM-200071'],33
+98521d8af0974f7a7aa310e1144fd17c,"FIT-Fahrzeug / VIT-Vehicle D0130Z - Botschaft (Status Anzeige Kombi, ID: ST_DISP_KI) fehlt",98521d8af0974f7a7aa310e1144fd17c,['HU22DM-200337'],36
+1850b7ad817b6b8ce6eb45d7acd606ff,[MGU-E] CID Blackscreen for complete LC - CID bleibt nach Fahrzeugstart schwarz fÃ¼r einen kompletten Lifecycle. Keine Audioausgabe. ,1850b7ad817b6b8ce6eb45d7acd606ff,['HU22DM-201604'],37
+8561914d860570076ff3ce9f41682bc4,BI_2311to2403 MGU_02_A - 0xB7FB36 - DFE: Hardware Fehler: Ausfall DFE-Kommunikation,8561914d860570076ff3ce9f41682bc4,['HU22DM-201611'],34
+e27e2ab4a9c49388293a934f22e79331,[2403] CID Blackscreen for complete LC - CID bleibt nach Fahrzeugstart schwarz fÃ¼r einen kompletten Lifecycle. Keine Audioausgabe. ,e27e2ab4a9c49388293a934f22e79331,['HU22DM-201614'],36
+5f3b0edea71a3b60cb1d93f8690cdf4e,BI_2311toML [IDC23_E][2311]: WAKEUP_REASON_HARD_ERROR_RESET for U011_5V63314,5f3b0edea71a3b60cb1d93f8690cdf4e,['HU22DM-202485'],30
+c8c82262047b0f6faa51e75c12b10967,AZV stays black the whole LC,c8c82262047b0f6faa51e75c12b10967,['HU22DM-203876'],7
+b7e2aefb1da5117e881d6cd92f6deeb3,[Lifecycle][IDC23] [2311] Multiple wakeups observed after Disabling KL30F,b7e2aefb1da5117e881d6cd92f6deeb3,['HU22DM-205569'],21
+e82e0a356955e412d05d2f6e3f008e05,[Lifecycle][IDC23] [2403] Multiple wakeups observed after Disabling KL30F,e82e0a356955e412d05d2f6e3f008e05,['HU22DM-205584'],21
+7abba7c2008a10626855aa8423929d38,[IDC23][SV][PQFS] Service RC_ETH_PHY_SWITCH_ENGINE_RESET returned a negative response with response code,7abba7c2008a10626855aa8423929d38,['HU22DM-207335'],24
+a43621491fb41ae7ca6b2189dafffbca,[IDC ML] [HU22DM-208352]: Selective Wakeup always enabled.,a43621491fb41ae7ca6b2189dafffbca,['HU22DM-208352'],19
+e8f78bf0df9f13468e0754764912d5e8,[IDC23_F BAT Failure]: Multiple times Service failure: eth-ctrl.service is observed with message 'timeout' after target startup ,e8f78bf0df9f13468e0754764912d5e8,['HU22DM-208597'],27
+f26d03542e20bfca36a56f5e3d9d4849,"Fehler in Fahrtdaten ""Ab Fahrtbeginn""/Error in trip data â€œFrom the start of the tripâ€",f26d03542e20bfca36a56f5e3d9d4849,['HU22DM-210266'],30
+2dce2f2cbf044821729ff6883c3351ab,[LifeCycle-RTC] [IDC2403] [Voltage Curves] HU doesn't wakeup after Slow decrease and increase of the supply voltage- UBmin 6V,2dce2f2cbf044821729ff6883c3351ab,['HU22DM-210810'],37
+c972662ec0a96c9ac366df01191fcba3,[MGU22][KNG][WAVE-11] CCM Emergency call system failed with MGU22 LAST_IOC_RESET_REASON_WAKEUP,c972662ec0a96c9ac366df01191fcba3,['HU22DM-212557'],29
+f34047ed9be957245be11e9ab8df28bb,[Lifecycle-RTC][MGU22]MGU22 does not wakeup with WAKEUP_REASON_CUSTOMER_RESET,f34047ed9be957245be11e9ab8df28bb,['HU22DM-213149'],22
+be42eeb163c37d00a0bbd2b8a838a5f8,[LifeCycle-RTC] [IDC2403]HU does not wakeup with WAKEUP_REASON_CUSTOMER_RESET,be42eeb163c37d00a0bbd2b8a838a5f8,['HU22DM-213153'],23
+54a15d140b297609b48abc816e38da3d,"MGU_02_A - Head-Unit shows ""Flash Mode"" after successful RSU activation",54a15d140b297609b48abc816e38da3d,['HU22DM-214074'],19
+86d586719b44ba38350349cdcb1c9cb0,[PaDi] Watchdog Reset did not happen in flash mode after killing recovery manager,86d586719b44ba38350349cdcb1c9cb0,['HU22DM-214193'],17
+3389efd680d43d6b195bdec5625f5852,[MGU22_E] Nightly Build BAT Failure : Found unexpected DTC: 0XB7F908 along with check that ioc does not restart with an ACT_FAULT ,3389efd680d43d6b195bdec5625f5852,['HU22DM-214905'],37
+fce2cc9025ae0fb6f2180ece37d3ab9a,[MGU22_F] Nightly Build BAT Failure : mgu22-test-execution-environment.post_serial_marker_tests.check that ioc does not restart with an ACT_FAULT (,fce2cc9025ae0fb6f2180ece37d3ab9a,['HU22DM-216971'],36
+aeabc848d13f599e65a605c7e209813c,[IDC23_F] Nightly Build BAT Failure : mgu22-test-execution-environment.post_serial_marker_tests.check that no brownout reset occurred on ioc,aeabc848d13f599e65a605c7e209813c,['HU22DM-217229'],33
+eb4d12268c4776cd1091eab8dfd64de5,CLONE - Kernel minidump transfer failed,eb4d12268c4776cd1091eab8dfd64de5,['HU22DM-217251'],9
+40e1a39840a87dc78c85d45877938e4f,"MGU startet nicht auf, CID zeigt BMW an/MGU does not start, CID shows BMW",40e1a39840a87dc78c85d45877938e4f,['HU22DM-217976'],20
+41d33265517367967d10564cbf8fe7d4,"[LifeCycle-RTC] [IDC2403] SHUTDOWN_TARGET_FULL_OFF observed after Factory Reset Job ""nsm_control --r 11""",41d33265517367967d10564cbf8fe7d4,['HU22DM-218105'],31
+832e56ae03c59859d3810a92e480461b,[LifeCycle-RTC] [IDC23-PU] [Voltage Curves] WATCHDOG RESET observed while running  E-09 Reset behavior-Sequence 1- UBmin6V,832e56ae03c59859d3810a92e480461b,['HU22DM-223080'],39
+3d208a63fc0c49a5232b248900979fe4,[LifeCycle-RTC] [IDC23-ML] [Voltage Curves] WATCHDOG RESET observed while running E-09 Reset behavior-Sequence 1- UBmin6V,3d208a63fc0c49a5232b248900979fe4,['HU22DM-223085'],38
+1d9d7ab8e8e26dabca265f83b6c769f4,"MGU_02_L After a new Lifecycle during RSU Chunk transfer HMI displays ""BMW"" Logo",1d9d7ab8e8e26dabca265f83b6c769f4,['HU22DM-223401'],21
+98234d1b2e4159348f1051c6474a2b92,IDC eBVT failure: Wakeup reason in RTC:SWITCH TO POWER instead of CAN_BUS_ACTIVE,98234d1b2e4159348f1051c6474a2b92,['HU22DM-223536'],22
+a89ca09cc448d536f2e5b7650caa569c,[24-03] RSU FATAL_ERROR in customer vehicle -  ECU  MGU_02_L - Verification after update not successfull,a89ca09cc448d536f2e5b7650caa569c,['HU22DM-223954'],30
+e17bf1f3eed3d870d76a36ec5d026cd3,BI_2403toML  [IDC23]24-03  Nightly Build BAT: Node0 flashing failure,e17bf1f3eed3d870d76a36ec5d026cd3,['HU22DM-226625'],25
+340768e47ec52080f14b9a1b8d72c0ed,FIT-Fahrzeug / VIT-Vehicle D0105E - Undervoltage identified,340768e47ec52080f14b9a1b8d72c0ed,['HU22DM-227426'],18
+7c7ee4d31b0335759e0043543fe91ef3,Black AZV after performing E-09_Reset_behavior_30s_100ms voltage test,7c7ee4d31b0335759e0043543fe91ef3,['HU22DM-227748'],18
+cda59abf8930d96e66fcd5d3619e4b9d,RSU FATAL_ERROR in customer vehicle - HU_MGU_02_A activation failed,cda59abf8930d96e66fcd5d3619e4b9d,['HU22DM-228655'],18
+2a3102391bafcd28c7dd42549ccf48cf,[LifeCycle] [MGU22] [Plant Mode] [Voltage Curves] CID blank after Slow decrease and increase of the supply voltage- UBmin 6V,2a3102391bafcd28c7dd42549ccf48cf,['HU22DM-229974'],35
+9e33bda60d240a6b736314369d0ce78c,[Lifecycle][MGU22_F][Automation] Quiescence current ~14.7mAh during STR,9e33bda60d240a6b736314369d0ce78c,['HU22DM-231030'],21
+709a4bdcd3b3b2d8e694f76f116741bb,[IDC23][Mainline]: IOC_WATCHDOG_RESET Observed as SHUTDOWN_INTERNAL_ERROR_RESET,709a4bdcd3b3b2d8e694f76f116741bb,['HU22DM-231158'],19
+b31989d3d895ae57672b9996ec1ee43f,0xA7631B - System Health: Resetfehler IOController / Unexpected IOC reset: RESET_REASON_BOD_VDDD,b31989d3d895ae57672b9996ec1ee43f,['HU22DM-232234'],26
+7d1a061b758da894b990616789cdeaeb,MGU_02_L does not start RSU over HMI,7d1a061b758da894b990616789cdeaeb,['HU22DM-232392'],13
+9099f98cb6057a5bd9bfd18262448c29,[IDC_SI] [IDC] Yellow Screen without ID,9099f98cb6057a5bd9bfd18262448c29,['HU22DM-232549'],12
+941b9d29572fa96c8945389d9636cb68,[Lifecycle][MGU22_F][Automation] Quiescence current ~13.8 mAh during STR,941b9d29572fa96c8945389d9636cb68,['HU22DM-233977'],22
+2c0c1b5b31fbfa0999a6ab06a2af3d7e,BI_2311to2403 RSU FATAL_ERROR in customer vehicle - HU_MGU_02_A activation failed,2c0c1b5b31fbfa0999a6ab06a2af3d7e,['HU22DM-236110'],25
+703e0e838d2ef3544cf1fe9f1bafcdea,KNG/CID_Black screen after restart,703e0e838d2ef3544cf1fe9f1bafcdea,['HU22DM-238678'],9
+c5bbe031af6327c65b96044c98a2653d,RSU_G18_2407_ID8_MGU lost during the upgrade process. Unable to drive after upgrading.,c5bbe031af6327c65b96044c98a2653d,['HU22DM-240083'],23
+6d919a6bd8e1f81fb0839e1bf950648e,HU-MGU_02_A Cascade: ECU 0x63 sends conditionsNotCorrect on RC_APM,6d919a6bd8e1f81fb0839e1bf950648e,['HU22DM-243209'],22
+5fc5a35b355f33929d63f6a4da76a54d,0xA7631B System Health: error reset IOController in F66 24-07 pre-series production,5fc5a35b355f33929d63f6a4da76a54d,['HU22DM-243958'],22
+0f9a5da33adb698ee3345a722dd6dbd4,MINI IDC: Black Screen after new LC - HU didnÂ´t start up,0f9a5da33adb698ee3345a722dd6dbd4,['HU22DM-245052'],17
+efed2f5ad92d570897eac4d86d0b1a3e,[KSP] BCP sends NM on 3080 but IDC switch not forwarding them to WAVE >> eCall CCM Ecall and internet functions lost when startup,efed2f5ad92d570897eac4d86d0b1a3e,['HU22DM-246119'],33
+2cec5dfa5a6f09a5b21afeb496e812b9,[IDC23 SV][U25][ML] After Flashing ML SW with U25 FA Black Screen Observed.,2cec5dfa5a6f09a5b21afeb496e812b9,['HU22DM-247143'],24
+0784994e44ec90c109bfba4168172930,Bad IuK Startup With Low Battery,0784994e44ec90c109bfba4168172930,['HU22DM-248441'],8
+98d9ad1f817227c5f61267561edb5a29,[ML-25-07] G68__IDC23_CID always awake in the whole day after lock the vehicle,98d9ad1f817227c5f61267561edb5a29,['HU22DM-248628'],24
+2497d5afd088df4a3081fe517742f705, [MGU22- E Branch _High Value of LC Counter leading to UDP NM Crash,2497d5afd088df4a3081fe517742f705,['HU22DM-248808'],18
+0974e3980ac7fd39ff8d5b5b4ec931be,[IOC][ML] HU does not recover from UV - SOC does not start,0974e3980ac7fd39ff8d5b5b4ec931be,['HU22DM-249423'],17
+cf610e79c74e3f3602430ab31cee3f59, [IDC23][Mainline]: 0xB7FB60 - SAFE_CODING_DATA_ERROR causing IC_SAFETY_VIOLATION_RESET_BLANK,cf610e79c74e3f3602430ab31cee3f59,['HU22DM-249745'],32
+c78dd01d6b0659a81d7a421f8e66b69c,KNG/AZV_Complete failure of the display network during vehicle start,c78dd01d6b0659a81d7a421f8e66b69c,['HU22DM-250163'],15
+59a45bd10b760382a60e524b4ed8e99d,: IC_SAFETY_VIOLATION_RESET_BLANK observed in vehicle TA10013,59a45bd10b760382a60e524b4ed8e99d,['HU22DM-250504'],18
+13c46de65b7e974b827b668b96bc054b,[LifeCycle][MGU22][STR] Unexpected Coldboot due to SHUTDOWN_STR_EXIT_OFF.,13c46de65b7e974b827b668b96bc054b,['HU22DM-250799'],21
+1c852b336f353f87f2751110f2cdc004,CID did not wake up after a long life cycle,1c852b336f353f87f2751110f2cdc004,['HU22DM-252112'],10
+7d90c325caef35c2373d29a64216f8c5,IDC23 Series Car - DFE stays sporadic black after clamp change an NO DTC is set,7d90c325caef35c2373d29a64216f8c5,['HU22DM-253013'],21
+a09d1faef621f16a103301800d46a8f6,IDC23 Series Car - DFE stays sporadic black after clamp change,a09d1faef621f16a103301800d46a8f6,['HU22DM-253493'],15
+7f4755e00889a196ce9e227c285b81dd,[IDC23_ML BAT Failure]: Kernel panic- Failed to sync observed in SOC logs during node0 SOC flash on IDC Premium Samples,7f4755e00889a196ce9e227c285b81dd,['HU22DM-254475'],27
+5e1ea4f69aa3c0aef87c8cfa7a01598f,HU-MGU_02_A Cascade:(Flash) ECU 0x63 sends conditionsNotCorrect on RC_APM,5e1ea4f69aa3c0aef87c8cfa7a01598f,['HU22DM-254504'],24
+0a7547de4c019d0e5653423bf13ffca3,G60  - Short downgrade of signals provided by UCAP,0a7547de4c019d0e5653423bf13ffca3,['HU22DM-254665'],12
+b7244c24ba845e9461cf4ba9cc098f77,[Lifecycle][IDC23] [PU2403] IDC23 does not wakeup sporadically after WUP trigger with SHUTDOWN_FULL_OFF,b7244c24ba845e9461cf4ba9cc098f77,['HU22DM-255377'],29
+f091b55b0f0ed7cd0a802196c4677959,IC screen black after updating 24w10.7-1,f091b55b0f0ed7cd0a802196c4677959,['HU22DM-255790'],13
+c1cba8ed0d193ad59458390a792657b0,DLT logs states that IDC performed a system reset even though it was a customer reset,c1cba8ed0d193ad59458390a792657b0,['HU22DM-257079'],17
+6df40f4f11124a8eb71d3cdeec84d3f3,Instrument cluster does not start,6df40f4f11124a8eb71d3cdeec84d3f3,['HU22DM-257617'],5
+4f335fde2d28f448a0915ffcfef01855,[IDC23_ML]:WAKEUP_REASON_IOC_WATCHDOG_RESET,4f335fde2d28f448a0915ffcfef01855,['HU22DM-257827'],14
+fea407b542ed67412969ae08575b8a8f,[ML-2507] IDC23 Series Car - DFE stays sporadic black after clamp change an NO DTC is set,fea407b542ed67412969ae08575b8a8f,['HU22DM-258174'],26
+334c3ebe03cf82c42af09756374b37b3,After 2h bussleep IC shows 999999 km mileage,334c3ebe03cf82c42af09756374b37b3,['HU22DM-258624'],14
+d0855f40ad99ed1bf80ae7f0c30afa6f,No Shutdown and Start with Active Screen after LC,d0855f40ad99ed1bf80ae7f0c30afa6f,['HU22DM-258813'],9
+663b1326fe05422c58ed1902d31e3b29,"U12_2311_IDC23_Production Car_NO RESPONSE FROM CONTROLUNIT, HU startup timeout",663b1326fe05422c58ed1902d31e3b29,['HU22DM-259776'],21
+c5ff7aa7d8c153485c3ffe08f2ded51b,"HU-MGU_02_A-HU-IDC23_HIGH_B537 Cascade (Coding) ECU 0x63 After EcuReset, ECU does not accept transmitted coding data due to out of range error.",c5ff7aa7d8c153485c3ffe08f2ded51b,['HU22DM-260696'],44
+17dff7d79189b2b01e7c3aa61ba924d9,: IOC_WATCHDOG_RESET,17dff7d79189b2b01e7c3aa61ba924d9,['HU22DM-261264'],5
+bfc23088565dc19b7bd1ffb0c0db98b7,"After change Units, last settings are not shown in the menu",bfc23088565dc19b7bd1ffb0c0db98b7,['HU22DM-261507'],12
+71eb165d023c6665c29c3653f2522e20,[PU 2407] G68_2411_IDC23_CID always awake in the whole day after lock the vehicle,71eb165d023c6665c29c3653f2522e20,['HU22DM-262457'],25
+0a3f862605cf8a485d799d0d07169d94,[PU 2403] G68_2411_IDC23_CID always awake in the whole day after lock the vehicle,0a3f862605cf8a485d799d0d07169d94,['HU22DM-262458'],25
+a1838f9de5474cd63c332cdc1b221da5,"IDC23 Series Car - DTC ""0xA7631B - System Health: Resetfehler IOController"" is currently present",a1838f9de5474cd63c332cdc1b221da5,['HU22DM-263025'],28
+2f1a4c16f74e9a4a92dda5e3341ef376,[IDC 2403] Selective Wakeup always enabled.,2f1a4c16f74e9a4a92dda5e3341ef376,['HU22DM-263249'],13
+5fd255db7b2c556ca799d5988db53512,Completely black CID and Kombi while reversing,5fd255db7b2c556ca799d5988db53512,['HU22DM-265216'],10
+cc785dd030908551f67b83fc75dc56ca,[Lifecycle][MGU22_G][Field Mode_Engineering Mode] WAKEUP_REASON_WATCHDOG_RESET Observed during STR,cc785dd030908551f67b83fc75dc56ca,['HU22DM-265750'],26
+c5d0eac05f45e3d69f8a70fee50bae95,MGU_02_A - 0xA7631B - System Health: Resetfehler IOController,c5d0eac05f45e3d69f8a70fee50bae95,['HU22DM-266169'],22
+b1edebca8079ae04f91698fa6fa203cb,RVC blackscreen after STR start up,b1edebca8079ae04f91698fa6fa203cb,['HU22DM-266368'],8
+69a8a040ff4b42b2e1d8895085f06383,"[BI_2407]HU-MGU_02_A-HU-IDC23_HIGH_B537 Cascade (Coding) ECU 0x63 After EcuReset, ECU does not accept transmitted coding data due to out of range error.",69a8a040ff4b42b2e1d8895085f06383,['HU22DM-267734'],50
+c2dc1cce7596dd68d266adf381b4660a,G48_IDC23_AZV black screen and can't recover by sleep and manual IDC reset,c2dc1cce7596dd68d266adf381b4660a,['HU22DM-268256'],20
+daac9fd3428f7570ba876022e3fa7ea4,"U06 - 0x034A61 - Motorabstellzeit, ZeitzÃ¤hler Kombi - ZeitzÃ¤hler DME Vergleich: Wert ZeitzÃ¤hler Kombi zu niedrig im Motorlauf",daac9fd3428f7570ba876022e3fa7ea4,['HU22DM-268654'],52
+76131825499e7d53c5c19498382570b6,Mileage inaccurate- shows 999999,76131825499e7d53c5c19498382570b6,['HU22DM-268779'],9
+e5798863dd93590f5b5637e224eae820,G48__IDC23_System relative time jump to correct one and then drop to incorrect one after awake,e5798863dd93590f5b5637e224eae820,['HU22DM-270374'],21
+56db6bd1fa62c6b555094fabb41e1914,[2507-ML] DLT logs states that IDC performed a system reset even though it was a customer reset,56db6bd1fa62c6b555094fabb41e1914,['HU22DM-270530'],23
+9c352b3b5cf51f9e81915ed38dffda96,No start date for data in Live Vehicle for driving statistics shown,9c352b3b5cf51f9e81915ed38dffda96,['HU22DM-271900'],12
+7e271f93a1a56d88064d851c01af91fa,EA-FIT BEV Total km-Anzeige 999999km/Total km display 999999km,7e271f93a1a56d88064d851c01af91fa,['HU22DM-272010'],22
+0b00a136b0de2902f5aa0ca66863707e,"DTC-Analyse - 12 DME 0x034A61 Motorabstellzeit, ZeitzÃ¤hler Kombi - ZeitzÃ¤hler DME Vergleich: Wert ZeitzÃ¤hler Kombi zu niedrig im Motorlauf",0b00a136b0de2902f5aa0ca66863707e,['HU22DM-272024'],58
+5e91ccea60b2782f42202ef0ba0a1356,Vehicle status KM unplausible,5e91ccea60b2782f42202ef0ba0a1356,['HU22DM-272796'],5
+c137c38909dc32507f0020ef49b14132,Total kilometers of combi cluster displayed in red,c137c38909dc32507f0020ef49b14132,['HU22DM-272909'],9
+6eb3be753407be6c0ad1ad35ae45ff75,BI_2407to25-07 - [LifeCycle-RTC] [IDC2403] [Automation] Watchdog Reset observed during LC.,6eb3be753407be6c0ad1ad35ae45ff75,['HU22DM-273045'],31
+9496bedf976a93fccf86a223c7de6d86,IDC CAN_INH Interrupt Behaviour,9496bedf976a93fccf86a223c7de6d86,['HU22DM-274239'],7
+cd64fb9f6775da0c44f2ac4c77fc9bbb,IDC [ML] WDG in LPM,cd64fb9f6775da0c44f2ac4c77fc9bbb,['HU22DM-274240'],10
+e936cac803f64546f1bdc2f5534c4329,IDC [24-11] CAN_INH Interrupt Behaviour ,e936cac803f64546f1bdc2f5534c4329,['HU22DM-275911'],13
+995bb26d8497c3ce073dce7e0b029cb1,[Lifecycle][MGU_G][Field mode] observed high current during STR LC,995bb26d8497c3ce073dce7e0b029cb1,['HU22DM-276339'],16
+e67a8c180e24e5284a02a114305b264d,MGU_02_A - Journey Data (since factory) changed after RSU PU Upgrade from to 24-07,e67a8c180e24e5284a02a114305b264d,['HU22DM-276493'],24
+51902b4fc9b9c277ce9e76d7bb490488,: WAKEUP_REASON_IOC_WATCHDOG_RESET,51902b4fc9b9c277ce9e76d7bb490488,['HU22DM-277117'],9
+98a04f71b2a6f6be26a586dee58615f0,KI028 - Resetfehler IOController,98a04f71b2a6f6be26a586dee58615f0,['HU22DM-278063'],9
+fc5ae552d34d6d1852b07859a0f96722,Failed to wakeup target post nsm command,fc5ae552d34d6d1852b07859a0f96722,['HU22DM-279145'],8
+de7b7ed1df2bd5a2072691c689d14583,IDC [25-07] CAN_INH Interrupt Behaviour ,de7b7ed1df2bd5a2072691c689d14583,['HU22DM-281050'],13
+c3c9155af78fd1230659ef439d08e2a1,STR startup takes nearly 1min,c3c9155af78fd1230659ef439d08e2a1,['HU22DM-283425'],7
+e37c75674602107b2c7483f65f7b79f1,BI [Mainline 2507] KNG/AZV_Complete failure of the display network during vehicle start,e37c75674602107b2c7483f65f7b79f1,['HU22DM-283687'],23
+c188e627b8cf464e99a147969b436b77,Kombi Black at startup - Focus on CAN outage in IOC,c188e627b8cf464e99a147969b436b77,['HU22DM-284771'],13
+593106634c58b8567ffa3f161932bd0d,[IDC23][2411]: Restart platform WAKEUP_REASON_IOC_WATCHDOG_RESET,593106634c58b8567ffa3f161932bd0d,['HU22DM-284813'],17
+36698f420af2c02437bac70962717ce6,Parkview not complete after start,36698f420af2c02437bac70962717ce6,['HU22DM-285250'],6
+85d22b7ef37ae79ad6567046b8184a1c,"[IDC][Pre-Integration][24w23.4-1] After STR, IDC immediately enters FULL OFF state",85d22b7ef37ae79ad6567046b8184a1c,['HU22DM-285692'],24
+f0efb36842d71c9764d28cf83102f4b5,[IDC23] [PU2411] [ZST] [Ethernet] [2.2: No transition to No_Communication on wakeupline low level],f0efb36842d71c9764d28cf83102f4b5,['HU22DM-286633'],33
+4889b8e64628e3aa5708b9fe22f95fc0,[IDC23][2411]: IC_SAFETY_VIOLATION_RESET_BLANK Reported DTC 0xB7FB8F - SAFE_MISC_CRC_ERROR,4889b8e64628e3aa5708b9fe22f95fc0,['HU22DM-287701'],33
+b16c781317dfb822518787256e0210a4,[PU2411] Disable the sanity reboot feature for MGU,b16c781317dfb822518787256e0210a4,['HU22DM-290563'],13
+1550b931aff3210da4e57eb07e7afd48,MGU22[SV]After_SV_Validation_Task-IOC is continuosly throwing ERROR LOGS.,1550b931aff3210da4e57eb07e7afd48,['HU22DM-290718'],23
+6bb4ce52008209df78eb01779ea251c1,Suspend to RAM Functionality did not work after LC,6bb4ce52008209df78eb01779ea251c1,['HU22DM-291004'],11
+a40e1ff3de18337279c3b50ab7657d87,"U12_IDC23_Production Car_IDC no response at B_DATA, Action: ECU handling, Error description: Unknown response to request for programming counter: ECUId:HU_MGU2_0x63, (PSdZ ID: 2226) (ECU answers occasionally)_2403U12",a40e1ff3de18337279c3b50ab7657d87,['HU22DM-291771'],66
+2a0869932b49c7c5e8ab1b42c3efbd2e,TK-FIT - Very slow MGU startup due to coldboot,2a0869932b49c7c5e8ab1b42c3efbd2e,['HU22DM-293481'],13
+4747961b7d704e7afe64e6d22c7d010d,[Lifecycle] [IDC_H] STR Budget Fall to 0 after STR_ERROR during Sanity Reboot,4747961b7d704e7afe64e6d22c7d010d,['HU22DM-293722'],21
+4630228042c15512e1ed883eb515a81c,[IDC23][2407]: IC_SAFETY_VIOLATION_RESET_BLANK DTC Reported 0xB7FB78 - SAFE_STATUS_ERROR,4630228042c15512e1ed883eb515a81c,['HU22DM-293897'],31
+a481ce54debc067e578f784939a11b49,CID takes long to show screen,a481ce54debc067e578f784939a11b49,['HU22DM-294098'],6
+d3fbba5bbdc8e16420e32df5ff071afd,[RSE22_PADI][SV][FAT] FZGCOD_SP21:- Initialization of PSdZ failed,d3fbba5bbdc8e16420e32df5ff071afd,['HU22DM-295360'],24
+51ca6c1076833d3aeced45611f974418,Significantly delayed startup of the CID. Approx. 10 seconds after in the 1st and 3rd Lifecycle,51ca6c1076833d3aeced45611f974418,['HU22DM-296893'],24
+74b9e62910bd230078c62bb08f4f4539,0xA7631B - System Health: Resetfehler IOController,74b9e62910bd230078c62bb08f4f4539,['HU22DM-297185'],15
+4198df50195e95a191fc901ca82acac4,Production Car_Error at B_DATA: WRITE_FA_TO_BACKUP: Problem with the PSdZ vehicle connection or the PSdZ system configuration is incorrect. ECU is not readable. (PSdZ ID: 433),4198df50195e95a191fc901ca82acac4,['HU22DM-298019'],46
+c9fd7c7cbe732bcec09c19d35febcaaf,Black CID after bus rest and immediate departure with RFK - Focus: Cold Boot,c9fd7c7cbe732bcec09c19d35febcaaf,['HU22DM-298253'],16
+d40fc73eef238010776ab42d53427a71,[IDC23] [ML] [Automation] High Current Occurred During STR Lifecycle Automation ,d40fc73eef238010776ab42d53427a71,['HU22DM-298287'],19
+f61d4cabff020b216061d777c3acd5d3,Wrong STR budget is getting renewed automatically,f61d4cabff020b216061d777c3acd5d3,['HU22DM-298496'],7
+6aebae568357758f36c1fbb46e3635f3,Delayed startup CID,6aebae568357758f36c1fbb46e3635f3,['HU22DM-298499'],3
+aedb1392696a0303a184efa597f9eb83,TK-FIT - Late MGU start due to coldboot,aedb1392696a0303a184efa597f9eb83,['HU22DM-298500'],12
+8f4465aed6020a60e9929cd324f39a97,MGU starts without animation in every lifecycle,8f4465aed6020a60e9929cd324f39a97,['HU22DM-298516'],8
+9985fbe2c394828a205bcb770f194801,Delayed start of CID,9985fbe2c394828a205bcb770f194801,['HU22DM-298527'],4
