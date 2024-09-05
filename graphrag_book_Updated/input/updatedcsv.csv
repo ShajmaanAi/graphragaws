@@ -1,16 +1,3 @@
-id,text,title
-HU22DM-298527,Delayed start of CID,"preconditions and actions (e.g. coding, route-url for navigation errors, weather/environmental circumstances):
-* Fahrzeugzustand Kunde nicht im Fahrzeug
-* Fahrer steigt ein
-
-expected result/behaviour:
-* Welcome Animation wird angezeigt und Kombi und CID sind an
-
-observed result/behaviour:
-* Keine Welcome Animation
-* Kombi normale Anzeige
-* CID bleibt fÃ¼r ca. 20 Sekunden schwarz und startet dann erst
-
 possible impact:
 * Kunde irritiert
 
